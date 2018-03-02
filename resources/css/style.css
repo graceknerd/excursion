@@ -15,12 +15,14 @@ h2{
 }
 p{
   font-size: 21px;
-  color: lightgray;
+  color: gray;
 }
-.link{
+a{
   color: aquamarine;
   font-size: 16px;
 }
 .legal{
-  text-align: right
+  text-align: right;
+  font-size: 16px;
+  color: gray;
 }
